@@ -1,0 +1,6 @@
+info\controller\UserController.class
+info\service\UserService.class
+info\App.class
+info\dao\UserDao.class
+info\config\SpringConfig.class
+info\service\TestBeen.class
